@@ -1,0 +1,12 @@
+.myname{
+    text-transform: uppercase;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+}
+.job{
+    text-transform: capitalize;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+}
