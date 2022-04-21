@@ -1,12 +1,30 @@
 .myname{
     text-transform: uppercase;
-    font-size: xx-large;
     display: flex;
     justify-content: center;
+    font-size: 55px;
+    font-weight: 400;
+    margin-bottom: -120px !important
+
 }
 .job{
     text-transform: capitalize;
     font-size: large;
     display: flex;
     justify-content: center;
+    font-size: 30px;
+    color: #999999;
+    font-weight: 300;
+}
+.me{
+    display: flex;
+    justify-content: center;
+}
+.me-about{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    color:yellow;
+    margin:10px
 }

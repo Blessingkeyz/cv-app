@@ -1,6 +1,7 @@
 import React from 'react'
 import Navbar from '../Navbar/Navbar'
 import './About.css'
+import Me from './Me'
 
 function About() {
   return (
@@ -9,10 +10,13 @@ function About() {
             <Navbar/>
         </div>
         <div className='myname'>
-            Umukoro Blessing
+          <h2> Umukoro Blessing </h2>
         </div>
         <div className='job'>
-            Graphic DEsigner
+          <h3>Graphic Designer/ Web Developer</h3>
+        </div>
+        <div>
+          <Me />
         </div>
     </div>
   )
