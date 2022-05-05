@@ -11,6 +11,7 @@ function Me() {
       <div className='me-about'>
         <p>
           "I am a ready to work man, always ready to work, give me work, bring jobs"
+          i am a react Developer!
         </p>
       </div>
     </div>

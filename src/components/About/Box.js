@@ -3,7 +3,7 @@ import './About.css';
 
 function Box() {
   return (
-    <div className='small-box'></div>
+    <div className='small-box'> hello</div>
   )
 }
 

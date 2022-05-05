@@ -12,7 +12,7 @@ function About() {
         <div className='myname'>
           <h2> Umukoro Blessing </h2>
         </div>
-        <div className='job'>
+        <div className='Job'>
           <h3>Graphic Designer/ Web Developer</h3>
         </div>
         <div>
